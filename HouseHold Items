@@ -1,0 +1,5 @@
+Console.log("Bed");
+Console.log("Chair");
+Console.log("Table");
+Console.log("Brush");
+Console.log("Machine");
